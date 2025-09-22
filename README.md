@@ -1,8 +1,3 @@
-# Zomato-Insights
-Here’s a polished, professional, and visually engaging **README** for your Zomato SQL project, including emojis and a set of impressive queries you can showcase. You can save this as `README.md` for your project or include it in a PPT.
-
----
-
 # 🍽️ Zomato SQL Project
 
 ## 👋 Overview
